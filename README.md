@@ -3,8 +3,9 @@
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
-##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+##   NETWORK MODEL:
+<img width="1183" height="467" alt="image" src="https://github.com/user-attachments/assets/a11674f4-3aea-4a9a-ab0d-dd01508b5228" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
